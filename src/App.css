@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.customCenter {
+  display: flex;
+  justify-content: center;
+}
+
+.textfields{
+  display:flex;
+  flex-wrap: wrap;
+  
+}
+
